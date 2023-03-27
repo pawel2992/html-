@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+<title>styl zewnetrzny</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- zewnetrzne -->
+ <LINK href="iwin_zad6.css" rel="stylesheet" 
+type="text/CSS">
+</head>
+<body bgcolor="silver">
+ <kys>…ᘛ⁐̤ᕐᐷ …ᘛ⁐̤ᕐᐷ paweły 2</kys>
+ <p> …ᘛ⁐̤ᕐᐷ 1 paweł </p>
+  <kys>(•‿•) zdzwienie</kys>
+  <p> (ᴗᵔᴥᵔ) panda 2 złote </p>
+   <kys>-===≡≡≡( ͝° ͜ʖ͡°) szykbość</kys>
+   <p> ༼◥▶ل͜◀◤༽  super </p>
+ </body>
+</html>
+
+
+p
+{
+color:green;
+font-size:31;
+}
+kys
+{
+color:blue;
+font-size:41;
+}
+

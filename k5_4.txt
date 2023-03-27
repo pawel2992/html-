@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>styl zewnetrzne</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- liniowy -->
+</head>
+<body bgcolor="silver">
+ <p style="color: purple;font-size: 41 px;">Iwiński ->liniowy 
+ <br>
+  "a" suży do tworzenia linków</p>
+
+ </body>
+</html>

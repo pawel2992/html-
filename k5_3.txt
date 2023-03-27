@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>styl zewnetrzne</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- wewnetrzny -->
+ <style>
+ p {
+ color: red;
+ font-size: 52px;
+ }
+</style>
+</head>
+
+<head>
+<title>styl zewnetrzne</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- wewnetrzny -->
+ <style>
+ p {
+ color: purple;
+ font-size: 61px;
+ }
+</style>
+</head>
+<body bgcolor="silver">
+ <p> Iwiński -> wewnętrzna
+  "br"jest wykorzystwyane do znoszenia textu linijke niżej</p>
+
+
+ </body>
+</html>

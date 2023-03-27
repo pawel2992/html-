@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>styl zewnetrzne</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- importowany -->
+ <style>
+ @import url("iwin_z5_1.css ");
+ </style>
+</head>
+<body bgcolor="silver">
+ <p> Iwiński <br>
+ html to jezyk programowania<p>
+ 
+ </body>
+</html>
+
+
+
+p
+ {
+ color:teal;
+ font-size:71pt;
+ }
