@@ -8,8 +8,8 @@
  </style>
 </head>
 <body bgcolor="silver">
- <p> Iwiński <br>
- html to jezyk programowania<p>
+ <p> Jankowski <br>
+ html jest super<p>
  
  </body>
 </html>
