@@ -23,8 +23,13 @@
 </style>
 </head>
 <body bgcolor="silver">
- <p> Iwiński -> wewnętrzna
-  "br"jest wykorzystwyane do znoszenia textu linijke niżej</p>
+ <p> Jankowski -> wewnętrzna
+Aby wstawić podstawową tabelę, 
+kliknij pozycję Wstawianie > Tabela, 
+a następnie przesuń kursor nad siatką, 
+aby wyróżnić odpowiednią liczbę wierszy i kolumn. 
+Aby wstawić większą tabelę lub w celu dostosowania tabeli, 
+wybierz pozycję Wstawianie > Tabela > Wstaw tabelę.</p>
 
 
  </body>
