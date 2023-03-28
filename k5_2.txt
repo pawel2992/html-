@@ -7,8 +7,8 @@
 type="text/CSS">
 </head>
 <body bgcolor="silver">
- <p> Iwiński -> zewnętrzne <br>
-  CSS umożliwa łatwiejsze customizacje kodu  </p>
+ <p> Jankowski-> zewnętrzne <br>
+css jest lepszsy od html </p>
  </body>
 </html>
 
